@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qkrsogusl3&repo=TIL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qkrsogusl3&repo=UActions&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qkrsogusl3&repo=UActions&theme=tokyonight)](https://github.com/qkrsogusl3/UActions)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qkrsogusl3&repo=VFrame&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
